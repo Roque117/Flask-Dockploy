@@ -1,5 +1,10 @@
 # Flask CRUD - Docker y Dokploy (Despliegue Continuo)
 
+![Materia: Ingeniería en Sistemas](https://img.shields.io/badge/Materia-Ingeniería%20en%20Sistemas-blue?style=flat-square)
+![Profesor: Ing. Jose Javier Moya Moya](https://img.shields.io/badge/Profesor-Ing.%20Jose%20Javier%20Moya%20Moya-green?style=flat-square)
+![Despliegue: Dokploy](https://img.shields.io/badge/Despliegue-Dokploy-orange?style=flat-square)
+![Plataforma: Docker](https://img.shields.io/badge/Plataforma-Docker-blue?style=flat-square&logo=docker)
+
 Este proyecto es una aplicación CRUD desarrollada en Flask y MySQL, diseñada para la implementación de Despliegue Continuo (CD) utilizando Docker y la plataforma de orquestación Dokploy.
 
 ## Reconocimiento Especial
