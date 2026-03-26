@@ -39,6 +39,11 @@ El sistema está configurado para que el código se actualice de forma automáti
 
 ## Comandos de Mantenimiento (En la MV)
 
+## Vista
+
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/84ed1dd1-12d4-40f9-aa02-5ab6009bbf51" />
+
+
 Para recrear la tabla de la base de datos manualmente dentro del contenedor:
 
 ```bash
